@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Mr.0xdvx
 
-<!--
-**mr0xdvx/mr0xdvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Crypto Tester | Web3 Explorer  
+🧪 Testnet Grinder  
+🌱 Learning Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML
+- CSS
+- GitHub
+- Web3 Basics
+
+---
+
+## 📂 Projects
+- Portfolio Website
+
+---
+
+## 📫 Connect with me
+Twitter: https://x.com/Mr0xDvX
