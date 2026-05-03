@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mr.0xdvx
+# Hi 👋 I'm mr0xdvx  
 
 🚀 Crypto Tester | Web3 Explorer  
 🧪 Testnet Grinder  
@@ -6,18 +6,18 @@
 
 ---
 
-## 🔧 Skills
-- HTML
-- CSS
-- GitHub
-- Web3 Basics
+## 🛠 Skills
+- HTML  
+- CSS  
+- GitHub  
+- Web3 Basics  
 
 ---
 
 ## 📂 Projects
-- Portfolio Website
+- [Portfolio Website](https://mr0xdvx.github.io/portfolio-website/)
 
 ---
 
-## 📫 Connect with me
-Twitter: https://x.com/Mr0xDvX
+## 📬 Connect with me
+- Twitter: https://x.com/Mr0xDvX
